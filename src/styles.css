@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+}
+
+body{
+    margin: 0;
+    font-family: 'Sawarabi Mincho', sans-serif !important;
+}
+
+.grid-modal .mat-dialog-container {
+    background-color: #0c06a4;
+    color: #ebf465;
+}
+
+/* .mat-h2 .mat-body-2 .mat-typography .mat-h1 .mat-body-1 .mat-h3 .mat-body-3 .mat-h4 .mat-body-4 .mat-h5 .mat-body-5  */
+h1, h2, h3, h4, h5{
+    font-family: 'Sawarabi Mincho', sans-serif !important;
+}

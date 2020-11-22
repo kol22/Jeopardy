@@ -1,0 +1,439 @@
+{
+    "data": [
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Delivering prevention and treatment programs.",
+                "B": "Facilitating discussion",
+                "C": "Identifying, creating, and modifying educational material to meet the needs of the audience.",
+                "D": "Delivering programs based on their success rather than the needs of the individual."
+            },
+            "tileTitle": "CC 99",
+            "competency": "Provide culturally relevant formal and informal education programs that raise awarness and support substance abuse prevention and recovery.",
+            "question": "Which is not included in the skills portion of competency 99?",
+            "answer": "D) Delivering programs based on their success rather than the needs of the individual.",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Clean, Careful, Coordinated",
+                "B": "Clear, Complete, Concise",
+                "C": "Conscious, Clarity, Calculated"
+            },
+            "tileTitle": "CC 108",
+            "competency": "Demonstrate knowledge of accepted principles of client record management.",
+            "question": "Along with timeliness what are the three C’s of skillful record keeping?",
+            "answer": "B) Clear, Complete, Concise",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Openness to changing personal behaviors and attitudes that may conflict with ethical guidelines",
+                "B": "Professionals do not need to follow HIPAA guidelines should the safety of the client or the community be comprised",
+                "C": "Willingness to participate in self, peer, and supervisory assessment of clinical skills and practice.",
+                "D": "Respect for professional standards"
+            },
+            "tileTitle": "CC 115",
+            "competency": "Adhere to established professional codes of ethics that define the professional context within which the counselor works to maintain professional standards and safeguard the client.",
+            "question": "Which of the following are not a part of the attitudes portion of this competency?",
+            "answer": "B) Professionals do not need to follow HIPAA guidelines should the safety of the client or the community be comprised.",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Nonjudgemental presentation of issues",
+                "B": "Sensitivity to the interaction of risk and protection in the development of substance use disorders",
+                "C": "Approaching clients with preconceived notions of their circumstances that promote or inhibit drug use"
+            },
+            "tileTitle": "CC 100",
+            "competency": "Describe factors that increase the likelihood for an individual, community, or group to be at risk for or resilient to psychoactive substance use disorders.",
+            "question": "What is not a recommended attitude for this competency?",
+            "answer": "C) Approaching clients with preconceived notions of their circumstances that promote or inhibit drug use.",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "tf",
+            "tileTitle": "CC 109",
+            "competency": "Protect client rights to privacy and confidentiality in the preparation and handling of records, especially in relation to the communication of client information with third parties.",
+            "question": "Counselors must always request, prepare, and complete a “release of information” form, with the knowledge of the client, before sharing confidential information with third party facilities or family members.",
+            "answer": "True",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Agency",
+                "B": "Local",
+                "C": "Treatment",
+                "D": "Government"
+            },
+            "tileTitle": "CC 116",
+            "competency": "Competency 116",
+            "question": "Fill in the blank: “Adhere to federal and state laws and _____ regulations regarding the treatment of substance use disorders.”",
+            "answer": "A) Agency",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "tf",
+            "tileTitle": "CC 101",
+            "competency": "Sensitize others to issues of cultural identity, ethnic background, age, and gender in prevention, treatment, and recovery.",
+            "question": "Cultural issues and differences do not substantially impact the planning of prevention and treatment programs.",
+            "answer": "False",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Psychoactive substance use history, physical health, and social information",
+                "B": "Psychological information, criminal history, spiritual and recreational information",
+                "C": "Nutritional, sexual, educational, and legal information",
+                "D": "All of the above"
+            },
+            "tileTitle": "CC 110",
+            "competency": "Prepare accurate and concise screening, intake, and assessment reports.",
+            "question": "Which elements should be included in the initial screening?",
+            "answer": "D) All of the above",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Applying traditional skills in a nontraditional capacity",
+                "B": "Use the same methodology for each client in treatment",
+                "C": "Applying new skills in clinically appropriate ways",
+                "D": "Avoid research that does not agree with current practices"
+            },
+            "tileTitle": "CC 117",
+            "competency": "Interpret and apply information from current counseling and psychoactive substance use research literature to improve client care and enhance professional growth.",
+            "question": "Which of the following is a skill for counselors based on this competency?",
+            "answer": "C) Applying new skills in clinically appropriate ways",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "tf",
+            "tileTitle": "CC 102",
+            "competency": "Describe warning signs, symptoms, and the course of substance use disorders.",
+            "question": "Counselors are not responsible for teaching the signs and symptoms of SUDs; they are only responsible for knowing them.",
+            "answer": "False",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "American Medical Association, state, and facility regulations",
+                "B": "Federal, state, local, and program regulations",
+                "C": "Health Insurance, state, and facility regulations"
+            },
+            "tileTitle": "CC 111",
+            "competency": "Record treatment and continuing care plans that are consistent with agency standards and comply with applicable administrative rules.",
+            "question": "What levels of regulations should a counselor have knowledge in when documenting treatment and continuing care plans?",
+            "answer": "B) Federal, state, local, and program regulations",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Odd",
+                "B": "Non-specific",
+                "C": "Cultural",
+                "D": "Individual"
+            },
+            "tileTitle": "CC 118",
+            "competency": "Competency 118",
+            "question": "Fill in the blank: “Recognize the importance of _____ differences that influence client behavior, and apply this understanding to clinical practice.”",
+            "answer": "D) Individual",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Community",
+                "B": "Peers",
+                "C": "Primary Care Physician",
+                "D": "Schools"
+            },
+            "tileTitle": "CC 103",
+            "competency": "Describe how substance use disorders affect families and concerned others.",
+            "question": "Fill in the blank: “Educating clients, families, and the _____ about the effect of substance use disorders on the family, couple, and significant others.”",
+            "answer": "A) Community",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Standardized abbreviations",
+                "B": "Computer documentation software",
+                "C": "Documentation formatting"
+            },
+            "tileTitle": "CC 112",
+            "competency": "Record progress of clients in relation to treatment goals and objectives.",
+            "question": "Fill in the blank: Counselors should have knowledge of _____ and appropriate clinical terminology.",
+            "answer": "A) Standardized abbreviations",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Willingness to accept feedback",
+                "B": "Acknowledgment of client’s faults",
+                "C": "Acceptance of responsibility for personal and professional growth",
+                "D": "Awareness that one's personal recovery issues have an effect on job performance and interactions with clients"
+            },
+            "tileTitle": "CC 119",
+            "competency": "Use a range of supervisory options to process personal feelings and concerns about clients.",
+            "question": "Which of the following attitudes is not included in this competency?",
+            "answer": "B) Acknowledgment of client’s faults",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Progress",
+                "B": "Continuum",
+                "C": "Quality"
+            },
+            "tileTitle": "CC 104",
+            "competency": "Describe the continuum of care and resources available to the family and concerned others.",
+            "question": "Fill in the blank: “The _____ of care.”",
+            "answer": "B) Continuum",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Recognition that recovery is ongoing",
+                "B": "Recognition that timely recording is critical to accurate documentation",
+                "C": "Recognition of client weaknesses"
+            },
+            "tileTitle": "CC 113",
+            "competency": "Prepare accurate and concise discharge summaries.",
+            "question": "What attitude about discharge summaries does not belong?",
+            "answer": "C) Recognition of client weaknesses",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Ethical",
+                "B": "Lawful",
+                "C": "Essential",
+                "D": "Treatment-specific"
+            },
+            "tileTitle": "CC 120",
+            "competency": "Competency 120",
+            "question": "Fill in the blank: “Conduct self-evaluations of professional performance applying _____, legal, and professional standards to enhance self-awareness and performance.",
+            "answer": "A) Ethical",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Necessity",
+                "B": "Importance",
+                "C": "Knowledge"
+            },
+            "tileTitle": "CC 105",
+            "competency": "Describe principles and philosophy of prevention, treatment, and recovery.",
+            "question": "Fill in the blank: “Appreciation of the _____ of prevention and treatment.”",
+            "answer": "B) Importance",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "tf",
+            "tileTitle": "CC 114",
+            "competency": "Document treatment outcome using accepted methods and instruments.",
+            "question": "Process evaluations throughout treatment are important in documenting final outcome reports.",
+            "answer": "True",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Identifying professional progress and limitations",
+                "B": "Communicating the need for assistance",
+                "C": "Preparing and making case presentations",
+                "D": "Ignoring feedback from clients"
+            },
+            "tileTitle": "CC 121",
+            "competency": "Obtain appropriate continuing professional education.",
+            "question": "Which of the following skills does not belong?",
+            "answer": "D) Ignoring feedback from clients",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "tf",
+            "tileTitle": "CC 106",
+            "competency": "Understand and describe the health and behavior problems related to substance use, including transmission and prevention of HIV/AIDS, tuberculosis, sexually transmitted diseases, Hep C, and other infectious diseases.",
+            "question": "A counselor should have a strong understanding of the nature of infectious disease as it relates to addiction and recovery.",
+            "answer": "True",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "",
+            "tileTitle": "",
+            "question": "",
+            "answer": "",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": true,
+            "competency": "Some competency"
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "The rationale for using consultation",
+                "B": "How to identify needs for clinical and technical assistance",
+                "C": "Interpersonal dynamics in a supervisory relationship",
+                "D": "How to pursue further education in the field"
+            },
+            "tileTitle": "CC 122",
+            "competency": "Participate in ongoing supervision and counseltation.",
+            "question": "Which of the following knowledge skills is not a part of this competency?",
+            "answer": "D) How to pursue further education in the field",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Resources",
+                "B": "Sessions",
+                "C": "Tools"
+            },
+            "tileTitle": "CC 107",
+            "competency": "Teach life skills including but not limited to stress management, relaxation, communication, assertiveness, and refusal skills.",
+            "question": "Fill in the blank: “Delivering educational _____.”",
+            "answer": "B) Sessions",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        },
+        {
+            "type": "",
+            "tileTitle": "",
+            "question": "",
+            "answer": "",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": true,
+            "competency": "Some competency"
+        },
+        {
+            "type": "mc",
+            "answerChoices": {
+                "A": "Recognition that counselors serve as role models",
+                "B": "One must exercise for at least 30 minutes every day",
+                "C": "Appreciation that maintaining a healthy lifestyle enhances the counselor’s effectiveness"
+            },
+            "tileTitle": "CC 123",
+            "competency": "Develop and use strategies to maintain one’s physical and mental health.",
+            "question": "Which of the following attitudes does not belong?",
+            "answer": "B) One must exercise for at least 30 minutes every day",
+            "cols": 1,
+            "rows": 1,
+            "color": "#0c06a4",
+            "textColor": "#ebf465",
+            "answered": false
+        }
+    ]
+}

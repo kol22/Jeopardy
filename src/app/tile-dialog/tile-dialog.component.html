@@ -1,0 +1,54 @@
+<div class="dialog">
+  <div class="center">
+    <h4>
+      {{ tileInfo.competency }}
+    </h4>
+    <hr>
+  </div>
+  <div class="center" style="margin-top:1rem;" *ngIf="tileInfo.type === 'tf'">
+    <h2>True or False:</h2>
+  </div>
+  <div class="center" style="margin-top:1rem;">
+    <h2>
+      {{ tileInfo.question }}
+    </h2>
+  </div>
+  <div mat-dialog-content>
+    <div *ngIf="tileInfo.type === 'mc';">
+      <ul>
+        <li *ngFor="let answerChoice of tileInfo.answerChoices | keyvalue" class="mc-choices">
+          <b>{{ answerChoice.key }})</b>
+          {{ answerChoice.value }}
+        </li>
+      </ul>
+
+    </div>
+    <div *ngIf="answerRevealed" class="center" style="margin-top:5rem">
+      <h2>
+        <u>
+
+          Answer:
+        </u>
+      </h2>
+      <h2>
+        {{ tileInfo.answer }}
+      </h2>
+    </div>
+    <div class="dialog-footer">
+
+      <div mat-dialog-matDialogContent *ngIf="!answerRevealed; else elseBlock;"
+        style="display: flex; justify-content:center;">
+        <small (click)="revealAnswer()">
+          ( {{ revealStatement }} )
+        </small>
+      </div>
+      <ng-template #elseBlock>
+        <div style="display: flex; justify-content:center;">
+          <small (click)="closeDialog()">
+            ( {{ exitStatement }} )
+          </small>
+        </div>
+      </ng-template>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,28 @@
+ul, li {  list-style-type: none;}
+
+.dialog {
+    padding: 1rem;
+}
+
+.dialog-footer{
+    margin-top:2rem;
+}
+
+.center{
+    text-align: center;
+}
+
+
+.list-center{
+    display:flex;
+    justify-content: center;
+}
+
+.mc-choices{
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    margin-top:1rem;
+    text-align: start;
+    line-height: 1.5;
+}
